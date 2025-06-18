@@ -18,7 +18,7 @@ This repo contains:
 
 | File | Description |
 |------|-------------|
-| `app1.py` | Streamlit app that allows users to upload and classify digit images |
+| `app.py` | Streamlit app that allows users to upload and classify digit images |
 | `Recognizing handwritten digits in Scikit Learn.ipynb` | Jupyter notebook for model training and evaluation |
 | `requirements.txt` | Dependencies for running the app |
 | `sample_digit1.png`, `sample_digit2.png` | Sample digit images to test the app |
@@ -43,10 +43,10 @@ This repo contains:
 
 Example test images available in this repo:
 
-| Sample | Preview |
-|--------|---------|
-| sample_digit1.png | ![](sample_digit1.png) |
-| sample_digit2.png | ![](sample_digit2.png) |
+| Sample | 
+|--------|
+| sample_digit1.png | 
+| sample_digit2.png | 
 
 You can upload them into the app to test predictions.
 
@@ -76,6 +76,7 @@ streamlit run app1.py
 jupyter notebook
 # Then open 'Recognizing handwritten digits in Scikit Learn.ipynb'
 
+```
 ---
 
 ## 👤 Author
