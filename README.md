@@ -70,7 +70,7 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 
 # 4. Run the Streamlit app
-streamlit run app1.py
+streamlit run app.py
 
 # 5. (Optional) Run the Jupyter Notebook
 jupyter notebook
